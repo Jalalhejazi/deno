@@ -14,3 +14,9 @@ deno run test.ts
 ## Azure Functions
 
 - https://deno.land/x/azure_functions
+
+
+## Semantic Versioning
+
+- https://deno.land/x/bump
+
