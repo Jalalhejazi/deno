@@ -1,3 +1,9 @@
+# Motivation to move and use deno in 2020
+
+- https://thenewstack.io/node-js-creator-blasts-node-js-offers-a-secure-typescript-based-alternative/
+
+
+
 
 # Getting Started
 
