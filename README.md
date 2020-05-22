@@ -4,6 +4,8 @@
 
 - https://www.youtube.com/watch?v=HjdJzNoT_qg
 
+- https://flaviocopes.com/deno/
+
 
 
 # Getting Started
