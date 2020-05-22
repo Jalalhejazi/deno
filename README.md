@@ -19,6 +19,7 @@ deno run test.ts
 ## Semantic Versioning
 
 - https://deno.land/x/bump
+- https://deno.land/x/semver
 
 ## Cross-env
 
@@ -31,4 +32,14 @@ deno run test.ts
 - https://deno.land/x/moment
 
 ## Up
-- https://deno.land/x/up
+
+Check if a website is up right now in Deno.
+
+```bash
+deno run --allow-net https://deno.land/x/up/mod.ts https://google.com
+```
+
+
+
+
+
