@@ -2,6 +2,7 @@
 
 - https://thenewstack.io/node-js-creator-blasts-node-js-offers-a-secure-typescript-based-alternative/
 
+- https://www.youtube.com/watch?v=HjdJzNoT_qg
 
 
 
