@@ -24,3 +24,6 @@ deno run test.ts
 
 - https://deno.land/x/cross_env
 
+## weather
+- https://deno.land/x/deno_weather
+
