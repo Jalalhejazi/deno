@@ -10,3 +10,7 @@ deno run --allow-net server.ts
 deno run test.ts
 
 ```
+
+## Azure Functions
+
+- https://deno.land/x/azure_functions
