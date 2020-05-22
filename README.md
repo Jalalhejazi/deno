@@ -20,3 +20,7 @@ deno run test.ts
 
 - https://deno.land/x/bump
 
+## Cross-env
+
+- https://deno.land/x/cross_env
+
