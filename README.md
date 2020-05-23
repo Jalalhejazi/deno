@@ -8,6 +8,8 @@
 
 - https://github.com/denolib/awesome-deno
 
+- [K8S demo](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-deno)
+
 # Getting Started
 
 ```bash
