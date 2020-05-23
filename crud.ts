@@ -11,11 +11,11 @@ interface Dog {
 
 let dogs: Array<Dog> = [
   {
-    name: "Roger",
+    name: "Gordon setter",
     age: 8,
   },
   {
-    name: "Syd",
+    name: "Dobermann",
     age: 7,
   },
 ];
