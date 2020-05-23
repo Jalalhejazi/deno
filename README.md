@@ -23,7 +23,7 @@ deno run --reload --allow-all program.ts
 deno run --reload --allow-net weather.ts
 deno run --allow-all server.ts
 deno run -A server.ts
-deno run -A city-weather.ts
+deno run -A city_weather.ts
 deno run -A crud.ts
 deno run test.ts
 
