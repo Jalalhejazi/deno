@@ -6,7 +6,7 @@
 
 - https://flaviocopes.com/deno/
 
-
+- https://github.com/denolib/awesome-deno
 
 # Getting Started
 
