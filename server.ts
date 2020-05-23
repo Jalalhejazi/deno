@@ -1,9 +1,9 @@
 // deno run --allow-net server.ts
-import { serve } from "https://deno.land/std@0.52.0/http/server.ts"
+import { serve } from "https://deno.land/std@0.52.0/http/server.ts";
 
-const PORT =  1234
+const PORT = 1234;
 
-const s = serve({ port: PORT })
+const s = serve({ port: PORT });
 
 console.log(`http://localhost:${PORT}/`);
 

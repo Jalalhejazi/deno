@@ -16,7 +16,11 @@
 git clone https://superusers-kursus@dev.azure.com/superusers-kursus/deno/_git/deno
 cd deno
 
-deno run --allow-net weather.ts
+deno run --help
+deno fmt
+deno run --reload --allow-all program.ts
+
+deno run --reload --allow-net weather.ts
 deno run --allow-all server.ts
 deno run -A server.ts
 deno run -A city-weather.ts
