@@ -20,6 +20,7 @@ deno run --allow-net weather.ts
 deno run --allow-all server.ts
 deno run -A server.ts
 deno run -A city-weather.ts
+deno run -A crud.ts
 deno run test.ts
 
 ```
