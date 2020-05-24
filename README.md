@@ -15,7 +15,7 @@
 ```powershell
 scoop install deno
 
-github="https://raw.githubusercontent.com/Jalalhejazi/deno/master"
+$github="https://raw.githubusercontent.com/Jalalhejazi/deno/master"
 deno run --allow-net $github/weather.ts
 deno run --allow-all $github/server.ts
 deno run -A $github/city_weather.ts
