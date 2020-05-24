@@ -13,7 +13,7 @@
 # Getting Started
 
 ```bash
-git clone https://superusers-kursus@dev.azure.com/superusers-kursus/deno/_git/deno
+git clone https://github.com/Jalalhejazi/deno.git
 cd deno
 
 deno run --help
