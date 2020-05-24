@@ -10,9 +10,9 @@
 
 - [K8S demo](https://github.com/knative/docs/tree/master/community/samples/serving/helloworld-deno)
 
-# Getting Started
+# Getting Started using PowerShell
 
-```bash
+```powershell
 scoop install deno
 
 github="https://raw.githubusercontent.com/Jalalhejazi/deno/master"
