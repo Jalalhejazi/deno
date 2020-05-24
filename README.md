@@ -16,6 +16,7 @@
 git clone https://github.com/Jalalhejazi/deno.git
 cd deno
 
+scoop install deno
 deno run --help
 deno fmt
 deno run --reload --allow-all program.ts
