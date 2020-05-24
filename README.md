@@ -13,20 +13,14 @@
 # Getting Started
 
 ```bash
-git clone https://github.com/Jalalhejazi/deno.git
-cd deno
-
 scoop install deno
-deno run --help
-deno fmt
-deno run --reload --allow-all program.ts
 
-deno run --reload --allow-net weather.ts
-deno run --allow-all server.ts
-deno run -A server.ts
-deno run -A city_weather.ts
-deno run -A crud.ts
-deno run test.ts
+github="https://raw.githubusercontent.com/Jalalhejazi/deno/master"
+deno run --allow-net $github/weather.ts
+deno run --allow-all $github/server.ts
+deno run -A $github/city_weather.ts
+deno run -A $github/crud.ts
+deno run $github/test.ts
 
 ```
 
