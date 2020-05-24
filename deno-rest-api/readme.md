@@ -1,8 +1,9 @@
 # Deno REST API
 
-## Run
-```
-deno run --allow-net server.ts
+## Run with PowerShell
+```powershell
+$github="https://raw.githubusercontent.com/Jalalhejazi/deno/master/deno-rest-api"
+deno run --allow-net $github/server.ts
 ```
 
 ## Routes
