@@ -8,9 +8,9 @@ deno run --allow-net $github/server.ts
 
 ## Routes
 ```
-GET      /api/v1/products
-GET      /api/v1/products/:id
-POST     /api/v1/products
-PUT      /api/v1/products/:id
-DELETE   /api/v1/products/:id
+http GET      :5000/api/v1/products
+http GET      :5000/api/v1/products/:id
+http POST     :5000/api/v1/products
+http PUT      :5000/api/v1/products/:id
+http DELETE   :5000/api/v1/products/:id
 ```
