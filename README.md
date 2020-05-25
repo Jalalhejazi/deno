@@ -29,30 +29,21 @@ deno run $github/test.ts
 - https://deno.land/x/azure_functions
 
 
-## Semantic Versioning
+## Semantic Versioning (Used in my DevOps automations)
 
 - https://deno.land/x/bump
 - https://deno.land/x/semver
 
 ## Cross-env
-
 - https://deno.land/x/cross_env
 
-## weather
-- https://deno.land/x/deno_weather
 
 ## moment
 - https://deno.land/x/moment
 
-## Up
 
-Check if a website is up right now in Deno.
+## REST API Server
 
-```bash
-deno run --allow-net https://deno.land/x/up/mod.ts https://google.com
-```
-
-
-
+- [/deno-rest-api](/deno-rest-api/readme.md)
 
 
