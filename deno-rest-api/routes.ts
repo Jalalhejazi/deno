@@ -3,6 +3,19 @@ import { getProducts, getProduct, addProduct, updateProduct, deleteProduct } fro
 
 const router = new Router()
 
+router.get('/', ( {response}:{response:any} ) => {
+    response.body = {
+        success: true,
+        data: [ "HTTP GET /api/v1/products",
+                "HTTP GET /api/v1/products/:id",
+                "HTTP POST /api/v1/products",
+                "HTTP PUT /api/v1/products/:id",
+                "HTTP DELETE /api/v1/products/:id"
+              ]
+    }   
+})
+
+
 router.get('/api/v1/products', getProducts)
     .get('/api/v1/products/:id', getProduct)
     .post('/api/v1/products', addProduct)
