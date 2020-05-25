@@ -24,6 +24,14 @@ deno run $github/test.ts
 
 ```
 
+
+## REST API Server
+
+- [/deno-rest-api](/deno-rest-api/readme.md)
+
+<br>
+<hr>
+
 ## Azure Functions
 
 - https://deno.land/x/azure_functions
@@ -42,8 +50,5 @@ deno run $github/test.ts
 - https://deno.land/x/moment
 
 
-## REST API Server
-
-- [/deno-rest-api](/deno-rest-api/readme.md)
 
 
