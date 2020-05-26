@@ -37,25 +37,10 @@ docker run -it --init -p 1993:1993 -v ${PWD}:/app hayd/alpine-deno:1.0.2 run --a
 - [/deno-rest-api](/deno-rest-api/readme.md)
 
 
-<br>
-<hr>
-
-## Azure Functions
-
-- https://deno.land/x/azure_functions
+## Deploy deno on Azure using github actions (DevOps)
+- https://github.com/Jalalhejazi/azure-webapps-deno-sample
 
 
-## Semantic Versioning (Used in my DevOps automations)
-
-- https://deno.land/x/bump
-- https://deno.land/x/semver
-
-## Cross-env
-- https://deno.land/x/cross_env
-
-
-## moment
-- https://deno.land/x/moment
 
 
 
