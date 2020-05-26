@@ -24,10 +24,18 @@ deno run $github/test.ts
 
 ```
 
+## deno Run inside a docker image
+
+```powershell
+$github="https://raw.githubusercontent.com/Jalalhejazi/deno/master"
+docker run -it --init -p 1993:1993 -v ${PWD}:/app hayd/alpine-deno:1.0.2 run --allow-net $github/weather.ts
+```
+
 
 ## REST API Server
 
 - [/deno-rest-api](/deno-rest-api/readme.md)
+
 
 <br>
 <hr>
