@@ -6,6 +6,7 @@ const data = await result.text();
 
 const temperaturArray = data.split(/(\s+)/);
 const temperaturObject = {
+  Lokation: "Odense",
   Dato: temperaturArray[0],
   Tid: temperaturArray[2],
   temperatur: temperaturArray[4],
